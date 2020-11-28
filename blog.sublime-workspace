@@ -1,0 +1,733 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"l",
+				"li\tTag"
+			],
+			[
+				"re",
+				"request"
+			],
+			[
+				"inc",
+				"inc\t#include <…>"
+			],
+			[
+				"st",
+				"string"
+			],
+			[
+				"ma",
+				"main\tmain()"
+			],
+			[
+				"in",
+				"inc\t#include <…>"
+			],
+			[
+				"margi",
+				"margin-top\tproperty"
+			],
+			[
+				"margin",
+				"margin-top\tproperty"
+			],
+			[
+				"co",
+				"color\tproperty"
+			],
+			[
+				"session_de",
+				"session_destroy"
+			],
+			[
+				"h",
+				"html\thtml"
+			],
+			[
+				"loca",
+				"location"
+			],
+			[
+				"s",
+				"s"
+			],
+			[
+				"sess",
+				"session_start"
+			],
+			[
+				"back",
+				"background-color\tproperty"
+			],
+			[
+				"log",
+				"login-left"
+			],
+			[
+				"c",
+				"contain\tbackground-size"
+			],
+			[
+				"a",
+				"auto\tbackground-size"
+			],
+			[
+				"bac",
+				"background-size\tproperty"
+			],
+			[
+				"regist",
+				"Registration"
+			],
+			[
+				"for",
+				"form\tTag"
+			],
+			[
+				"border",
+				"border-radius\tproperty"
+			],
+			[
+				"font-s",
+				"font-size\tproperty"
+			],
+			[
+				"p",
+				"printno"
+			],
+			[
+				"ex",
+				"experience"
+			],
+			[
+				"print",
+				"printSomething"
+			],
+			[
+				"ios",
+				"iostream\tstandard header"
+			],
+			[
+				"produ",
+				"Product"
+			],
+			[
+				"REg",
+				"RegForm"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"Re",
+				"RegForm"
+			],
+			[
+				"oncl",
+				"onclick\tAttr"
+			],
+			[
+				"In",
+				"Indicator"
+			],
+			[
+				"R",
+				"RegForm"
+			],
+			[
+				"get",
+				"getElementById"
+			],
+			[
+				"Logi",
+				"LoginForm"
+			],
+			[
+				"tran",
+				"translateX()\ttransform"
+			],
+			[
+				"font",
+				"font-size\tproperty"
+			],
+			[
+				"wid",
+				"width\tproperty"
+			],
+			[
+				"inline",
+				"inline-block\tdisplay"
+			],
+			[
+				"inlin",
+				"inline-block\tdisplay"
+			],
+			[
+				"P",
+				"placeholder\tAttr"
+			],
+			[
+				"fo",
+				"form\tTag"
+			],
+			[
+				"tex",
+				"text-align\tproperty"
+			],
+			[
+				"wi",
+				"width\tproperty"
+			],
+			[
+				"fff",
+				"fff"
+			],
+			[
+				"borde",
+				"border-top\tproperty"
+			],
+			[
+				"fon",
+				"font-weight\tproperty"
+			],
+			[
+				"ff",
+				"ff523b"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"io",
+				"iostream\tstandard header"
+			],
+			[
+				"jo",
+				"job_desc"
+			],
+			[
+				"C",
+				"Company"
+			],
+			[
+				"fi",
+				"find_elements_by_class_name"
+			],
+			[
+				"lo",
+				"location"
+			],
+			[
+				"is",
+				"isCurrency"
+			],
+			[
+				"me",
+				"meta\tTag"
+			],
+			[
+				"d",
+				"div\tTag"
+			],
+			[
+				"f",
+				"font\tTag"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "ablog/theblog/views.py",
+			"settings":
+			{
+				"buffer_size": 276,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "ablog/theblog/urls.py",
+			"settings":
+			{
+				"buffer_size": 184,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "ablog/theblog/models.py",
+			"settings":
+			{
+				"buffer_size": 328,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "ablog/theblog/templates/home.html",
+			"settings":
+			{
+				"buffer_size": 199,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "Packages/C++/C++ Single File.sublime-build",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"pA",
+				"Package Control: Install Package"
+			],
+			[
+				"C+",
+				"Set Syntax: C++"
+			],
+			[
+				"c",
+				"Set Syntax: C++"
+			],
+			[
+				"php",
+				"Set Syntax: PHP"
+			],
+			[
+				"p",
+				"Set Syntax: PHP"
+			],
+			[
+				"ph",
+				"Set Syntax: PHP"
+			],
+			[
+				"cs",
+				"Set Syntax: CSS"
+			],
+			[
+				"s",
+				"Set Syntax: C++"
+			],
+			[
+				"se",
+				"Set Syntax: C++"
+			],
+			[
+				"ht",
+				"Set Syntax: HTML"
+			],
+			[
+				"h",
+				"Set Syntax: HTML"
+			],
+			[
+				"py",
+				"Set Syntax: Python"
+			],
+			[
+				"java",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"css",
+				"Set Syntax: CSS"
+			],
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"beaut",
+				"HTMLBeautify"
+			],
+			[
+				"Insta",
+				"Package Control: Install Package"
+			],
+			[
+				"hask",
+				"Set Syntax: Haskell"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/Sheeba/Prithvi/Projects/MY-BLOG/ablog",
+		"/C/Users/Sheeba/Prithvi/Projects/MY-BLOG/ablog/theblog",
+		"/C/Users/Sheeba/Prithvi/Projects/MY-BLOG/ablog/theblog/templates"
+	],
+	"file_history":
+	[
+		"/D/hw/exps/exp4a/login-page.html",
+		"/D/hw/exps/exp4a/4.html",
+		"/D/hw/exps/exp4a/login-page.css",
+		"/D/hw/exps/exp4a/login.js",
+		"/C/Users/Sheeba/Prithvi/Programming/C++-B-to-A/classesANDobjects/buddy.hpp",
+		"/C/Users/Sheeba/Prithvi/Programming/C++-B-to-A/classesANDobjects/11constructors.cpp",
+		"/C/Users/Sheeba/Prithvi/Programming/C++-B-to-A/classesANDobjects/12classes-files.cpp",
+		"/C/Users/Sheeba/Prithvi/Programming/C++-B-to-A/classesANDobjects/buddy.cpp",
+		"/C/Users/Sheeba/Prithvi/Programming/C++-B-to-A/classesANDobjects/Buritto.cpp",
+		"/C/Users/Sheeba/Prithvi/Programming/C++-B-to-A/classesANDobjects/Buritto.h",
+		"/C/Users/Sheeba/Prithvi/Programming/C++-B-to-A/classesANDobjects/Package Control Messages",
+		"/C/Users/Sheeba/Prithvi/Projects/MY-BLOG/ablog/theblog/admin.py",
+		"/C/Users/Sheeba/Prithvi/Projects/MY-BLOG/ablog/theblog/models.py",
+		"/C/Users/Sheeba/Prithvi/Projects/MY-BLOG/ablog/theblog/views.py",
+		"/C/Users/Sheeba/Prithvi/Projects/MY-BLOG/ablog/theblog/templates/home.html",
+		"/C/Users/Sheeba/Prithvi/Projects/MY-BLOG/ablog/theblog/urls.py",
+		"/C/Users/Sheeba/Prithvi/Projects/MY-BLOG/ablog/ablog/urls.py",
+		"/C/Users/Sheeba/Prithvi/Projects/MY-BLOG/ablog/ablog/settings.py",
+		"/C/Users/Sheeba/Prithvi/Projects/MY-BLOG/Blog/ablog/theblog/urls.py",
+		"/C/Users/Sheeba/Prithvi/Projects/MY-BLOG/Blog/ablog/theblog/templates/home.html",
+		"/C/Users/Sheeba/Prithvi/Projects/MY-BLOG/Blog/ablog/theblog/views.py",
+		"/C/Users/Sheeba/Prithvi/Programming/CF/24-11-2020/SpecialPermutation.cpp",
+		"/C/Users/Sheeba/Prithvi/Projects/Blog/ablog/ablog/settings.py",
+		"/C/Users/Sheeba/Prithvi/Projects/Blog/ablog/ablog/urls.py",
+		"/C/Users/Sheeba/Prithvi/Programming/C++-B-to-A/classesANDobjects/9classnobjects.cpp",
+		"/C/Users/Sheeba/Prithvi/Programming/C++-B-to-A/classesANDobjects/10varinclasses.cpp",
+		"/C/wamp64/www/Registration/login.php",
+		"/C/wamp64/www/Registration/validation.php",
+		"/C/wamp64/www/Registration/home.php",
+		"/C/wamp64/www/Registration/logout.php",
+		"/C/wamp64/www/Registration/registration.php",
+		"/C/wamp64/www/Registration/style.css",
+		"/C/Users/Sheeba/projext.txt",
+		"/C/Users/Sheeba/Prithvi/Projects/WAFFLED-ECOMMERCE-FOR-KIDS/account.html",
+		"/C/Users/Sheeba/Prithvi/Programming/C++-B-to-A/Basics/8function-parameters.cpp",
+		"/C/Users/Sheeba/Prithvi/Programming/C++-B-to-A/Basics/9classnobjects.cpp",
+		"/C/wamp64/www/Registration/Login.php.txt",
+		"/C/Users/Sheeba/Prithvi/Projects/WAFFLED-ECOMMERCE-FOR-KIDS/registration.php",
+		"/C/Users/Sheeba/Prithvi/Projects/WAFFLED-ECOMMERCE-FOR-KIDS/style.css",
+		"/C/Users/Sheeba/Prithvi/Programming/jvr intern/Untitled Folder/webscrap.py",
+		"/C/Users/Sheeba/Prithvi/Programming/C++-B-to-A/Basics/7function.cpp",
+		"/C/Users/Sheeba/Prithvi/Programming/jvr intern/main.py",
+		"/C/Users/Sheeba/Prithvi/Projects/WAFFLED-ECOMMERCE-FOR-KIDS/products.html",
+		"/C/Users/Sheeba/Prithvi/Projects/WAFFLED-ECOMMERCE-FOR-KIDS/cart.html",
+		"/C/Users/Sheeba/Prithvi/Projects/WAFFLED-ECOMMERCE-FOR-KIDS/products-details.html",
+		"/C/Users/Sheeba/Prithvi/Projects/WAFFLED-ECOMMERCE-FOR-KIDS/CSS/style.css",
+		"/C/Users/Sheeba/Prithvi/Projects/WAFFLED-ECOMMERCE-FOR-KIDS/waffled.html",
+		"/C/Users/Sheeba/Prithvi/Projects/WAFFLED-ECOMMERCE-FOR-KIDS/CSS/s",
+		"/C/Users/Sheeba/Prithvi/Programming/jvr intern/Untitled Folder/web.py",
+		"/C/Users/Sheeba/Desktop/chots.py",
+		"/D/work/projects/waffled/products-details.html",
+		"/D/work/projects/waffled/waffled.html",
+		"/C/Users/Sheeba/Prithvi/Projects/waffled/style.css",
+		"/C/Users/Sheeba/Prithvi/Programming/Web-Development/HTML-CSS-and-Javascript-for-Web-Developers/mod-4-solutions/index.html",
+		"/C/Users/Sheeba/Prithvi/Programming/Web-Development/HTML-CSS-and-Javascript-for-Web-Developers/mod-4-solutions/SpeakHello.js",
+		"/C/Users/Sheeba/Prithvi/Programming/Web-Development/HTML-CSS-and-Javascript-for-Web-Developers/mod-4-solutions/SpeakGoodBye.js",
+		"/C/Users/Sheeba/Prithvi/Programming/Web-Development/HTML-CSS-and-Javascript-for-Web-Developers/mod-4-solutions/script.js",
+		"/C/Users/Sheeba/.vimrc",
+		"/C/Users/Sheeba/Prithvi/Programming/Web-Development-Coursera/HTML-CSS-and-Javascript-for-Web-Developers/mod-4-solutions/index.html",
+		"/C/Users/Sheeba/Prithvi/Programming/Web-Development-Coursera/HTML-CSS-and-Javascript-for-Web-Developers/mod-4-solutions/js/script.js",
+		"/D/hw/exps/exp4a/login-page.js",
+		"/D/hw/exps/exp3/3.html",
+		"/D/hw/exps/exp3/style.css",
+		"/C/Users/Sheeba/Prithvi/Projects/waffled/products.html",
+		"/D/sheeba webdesign/style12.css",
+		"/D/sheeba webdesign/web.html",
+		"/C/Users/Sheeba/Desktop/dadad",
+		"/C/Users/Sheeba/Downloads/intents(1).json",
+		"/C/Users/Sheeba/Prithvi/Programming/Algorithmic-Toolbox-Coursera/Assignments/assignment solutions/3.3 maxadrevenue.py",
+		"/C/Users/Sheeba/Prithvi/Projects/AI_chatbot/msg_info=[].py",
+		"/C/Users/Sheeba/Prithvi/Programming/Airbtics/Problem-2.py",
+		"/C/Users/Sheeba/Prithvi/Projects/AI_chatbot/chatapp/views.py",
+		"/C/Users/Sheeba/Desktop/New folder/AI-Chatbot/AI_chatbot/chatapp/views.py",
+		"/C/Users/Sheeba/Desktop/New folder/AI-Chatbot/AI_chatbot/AI_chatbot/urls.py",
+		"/C/Users/Sheeba/Desktop/Updated_Chatbot/AI_chatbot/chatapp/views.py",
+		"/C/Users/Sheeba/Desktop/New folder/AI-Chatbot/AI_chatbot/data/intents.json",
+		"/C/Users/Sheeba/Prithvi/Programming/Algorithmic-Toolbox-Coursera/Assignments/week3_greedy_algorithms/1_money_change/change.py",
+		"/C/Users/Sheeba/Prithvi/Programming/Algorithmic-Toolbox-Coursera/Assignments/assignment solutions/3.2 maxloot.py",
+		"/C/Users/Sheeba/Prithvi/Programming/Algorithmic-Toolbox-Coursera/Assignments/assignment solutions/3.1 moneychange.py",
+		"/D/Youtube/onlyhealthy/amla(done)/amla.veg",
+		"/D/Youtube/onlyhealthy/bread(buns ig)(done)/bread_sample1.veg",
+		"/C/Users/Sheeba/Desktop/work/projects/handyhelper/apps/first_app/models.py",
+		"/C/Users/Sheeba/Desktop/jupyter/AI_chatbot/AI_chatbot/asgi.py",
+		"/C/Users/Sheeba/Desktop/jupyter/projects/JVR/intents.json",
+		"/C/Users/Sheeba/Desktop/jupyter/projects/geofencing using iot/NoCov.kv",
+		"/C/Users/Sheeba/Prithvi/Web_Development/HTML,CSS,JS-Coursera/mod-2 solutions/index.html",
+		"/C/Users/Sheeba/Prithvi/Web_Development/HTML,CSS,JS-Coursera/mod-2 solutions/css/style.css",
+		"/C/Users/Sheeba/Desktop/products-details.html",
+		"/D/hw/exps/exp2a/4.html",
+		"/D/hw/exps/exp2a/3.html",
+		"/D/hw/exps/exp2a/1.html",
+		"/C/Program Files (x86)/Vim/_vimrc",
+		"/D/hw/activity4.html",
+		"/C/Users/Sheeba/Desktop/buddy.hs",
+		"/C/Users/Sheeba/Desktop/sample.html",
+		"/C/Users/Sheeba/Desktop/jupyter/projects/JVR/actions.py",
+		"/D/sheeba webdesign/onlyhealthy.html",
+		"/C/Users/Sheeba/Desktop/c.html"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 101.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"function",
+			"\n//(",
+			"function",
+			"img"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 3,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "ablog/theblog/views.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 276,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								213,
+								213
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "ablog/theblog/urls.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 184,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								178,
+								178
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "ablog/theblog/models.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 328,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "ablog/theblog/templates/home.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 199,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								178,
+								178
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 40.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 330.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "blog.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
