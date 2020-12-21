@@ -4,6 +4,14 @@
 		"selected_items":
 		[
 			[
+				"Create",
+				"CreateView"
+			],
+			[
+				"h",
+				"h2\tTag"
+			],
+			[
 				"dis",
 				"Disabled"
 			],
@@ -54,10 +62,6 @@
 			[
 				"session_de",
 				"session_destroy"
-			],
-			[
-				"h",
-				"html\thtml"
 			],
 			[
 				"loca",
@@ -259,7 +263,7 @@
 			"file": "ablog/theblog/views.py",
 			"settings":
 			{
-				"buffer_size": 367,
+				"buffer_size": 478,
 				"encoding": "UTF-8",
 				"line_ending": "Windows"
 			}
@@ -268,7 +272,7 @@
 			"file": "ablog/theblog/urls.py",
 			"settings":
 			{
-				"buffer_size": 284,
+				"buffer_size": 357,
 				"encoding": "UTF-8",
 				"line_ending": "Windows"
 			}
@@ -295,7 +299,7 @@
 			"file": "ablog/theblog/templates/base.html",
 			"settings":
 			{
-				"buffer_size": 3449,
+				"buffer_size": 3566,
 				"encoding": "UTF-8",
 				"line_ending": "Windows"
 			}
@@ -305,6 +309,15 @@
 			"settings":
 			{
 				"buffer_size": 364,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "ablog/theblog/templates/add_post.html",
+			"settings":
+			{
+				"buffer_size": 195,
 				"encoding": "UTF-8",
 				"line_ending": "Windows"
 			}
@@ -556,7 +569,7 @@
 	"groups":
 	[
 		{
-			"selected": 2,
+			"selected": 6,
 			"sheets":
 			[
 				{
@@ -565,15 +578,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 367,
+						"buffer_size": 478,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								277,
-								277
+								477,
+								477
 							]
 						],
 						"settings":
@@ -584,7 +597,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 5,
+					"stack_index": 2,
 					"type": "text"
 				},
 				{
@@ -593,26 +606,26 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 284,
+						"buffer_size": 357,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								280,
-								280
+								352,
+								352
 							]
 						],
 						"settings":
 						{
 							"syntax": "Packages/Python/Python.sublime-syntax"
 						},
-						"translation.x": 49.0,
+						"translation.x": 0.0,
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 4,
+					"stack_index": 3,
 					"type": "text"
 				},
 				{
@@ -640,7 +653,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 0,
+					"stack_index": 5,
 					"type": "text"
 				},
 				{
@@ -668,7 +681,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 3,
+					"stack_index": 6,
 					"type": "text"
 				},
 				{
@@ -677,15 +690,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 3449,
+						"buffer_size": 3566,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								442,
-								442
+								1593,
+								1593
 							]
 						],
 						"settings":
@@ -698,7 +711,7 @@
 						"translation.y": 36.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 2,
+					"stack_index": 1,
 					"type": "text"
 				},
 				{
@@ -726,7 +739,35 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 1,
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "ablog/theblog/templates/add_post.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 195,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								72,
+								72
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
 					"type": "text"
 				}
 			]
