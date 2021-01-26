@@ -267,7 +267,7 @@
 			"file": "ablog/theblog/views.py",
 			"settings":
 			{
-				"buffer_size": 558,
+				"buffer_size": 696,
 				"encoding": "UTF-8",
 				"line_ending": "Windows"
 			}
@@ -286,51 +286,26 @@
 			"settings":
 			{
 				"buffer_size": 463,
-				"encoding": "UTF-8",
 				"line_ending": "Windows"
 			}
 		},
 		{
-			"file": "ablog/theblog/templates/home.html",
-			"settings":
-			{
-				"buffer_size": 343,
-				"encoding": "UTF-8",
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "ablog/theblog/templates/base.html",
-			"settings":
-			{
-				"buffer_size": 3566,
-				"encoding": "UTF-8",
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "ablog/theblog/templates/article_detail.html",
-			"settings":
-			{
-				"buffer_size": 364,
-				"encoding": "UTF-8",
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "ablog/theblog/templates/add_post.html",
-			"settings":
-			{
-				"buffer_size": 245,
-				"encoding": "UTF-8",
-				"line_ending": "Windows"
-			}
-		},
-		{
+			"contents": "from django import forms\nfrom .models import Post\n\nclass PostForm(forms.ModelForm):\n\t#modelform allows us to create a form\n\tclass Meta:\n\t\tmodel = Post\n\t\tfields = ('title', 'title_tag', 'author', 'body')\n\n\t\twidgets = {\n\t\t\t'title': forms.TextInput(attrs = {'class': 'form-control', 'placeholder': 'Add title'}),\n\t\t\t'title_tag': forms.TextInput(attrs = {'class': 'form-control', 'placeholder': 'Add title tag'}),\n\t\t\t'author': forms.Select(attrs = {'class': 'form-control'}),\n\t\t\t'body': forms.Textarea(attrs = {'class': 'form-control', 'placeholder': 'YOUR BLOG'})\n\t\t}",
 			"file": "ablog/theblog/forms.py",
+			"file_size": 578,
+			"file_write_time": 132530430770684488,
 			"settings":
 			{
 				"buffer_size": 564,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "ablog/theblog/templates/update_post.html",
+			"settings":
+			{
+				"buffer_size": 299,
 				"encoding": "UTF-8",
 				"line_ending": "Windows"
 			}
@@ -348,15 +323,15 @@
 		"selected_items":
 		[
 			[
+				"ht",
+				"Set Syntax: HTML"
+			],
+			[
 				"py",
 				"Set Syntax: Python"
 			],
 			[
 				"h",
-				"Set Syntax: HTML"
-			],
-			[
-				"ht",
 				"Set Syntax: HTML"
 			],
 			[
@@ -446,6 +421,11 @@
 	],
 	"file_history":
 	[
+		"/C/Users/Sheeba/Prithvi/Projects/MY-BLOG/ablog/theblog/models.py",
+		"/C/Users/Sheeba/Prithvi/Projects/MY-BLOG/ablog/theblog/templates/home.html",
+		"/C/Users/Sheeba/Prithvi/Projects/MY-BLOG/ablog/theblog/templates/base.html",
+		"/C/Users/Sheeba/Prithvi/Projects/MY-BLOG/ablog/theblog/templates/article_detail.html",
+		"/C/Users/Sheeba/Prithvi/Projects/MY-BLOG/ablog/theblog/templates/add_post.html",
 		"/D/hw/exps/exp4a/login-page.html",
 		"/D/hw/exps/exp4a/4.html",
 		"/D/hw/exps/exp4a/login-page.css",
@@ -458,9 +438,7 @@
 		"/C/Users/Sheeba/Prithvi/Programming/C++-B-to-A/classesANDobjects/Buritto.h",
 		"/C/Users/Sheeba/Prithvi/Programming/C++-B-to-A/classesANDobjects/Package Control Messages",
 		"/C/Users/Sheeba/Prithvi/Projects/MY-BLOG/ablog/theblog/admin.py",
-		"/C/Users/Sheeba/Prithvi/Projects/MY-BLOG/ablog/theblog/models.py",
 		"/C/Users/Sheeba/Prithvi/Projects/MY-BLOG/ablog/theblog/views.py",
-		"/C/Users/Sheeba/Prithvi/Projects/MY-BLOG/ablog/theblog/templates/home.html",
 		"/C/Users/Sheeba/Prithvi/Projects/MY-BLOG/ablog/theblog/urls.py",
 		"/C/Users/Sheeba/Prithvi/Projects/MY-BLOG/ablog/ablog/urls.py",
 		"/C/Users/Sheeba/Prithvi/Projects/MY-BLOG/ablog/ablog/settings.py",
@@ -582,7 +560,7 @@
 	"groups":
 	[
 		{
-			"selected": 7,
+			"selected": 0,
 			"sheets":
 			[
 				{
@@ -591,15 +569,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 558,
+						"buffer_size": 696,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								478,
-								478
+								694,
+								694
 							]
 						],
 						"settings":
@@ -610,7 +588,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 1,
+					"stack_index": 0,
 					"type": "text"
 				},
 				{
@@ -638,7 +616,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 2,
+					"stack_index": 3,
 					"type": "text"
 				},
 				{
@@ -654,8 +632,8 @@
 						"selection":
 						[
 							[
-								90,
-								90
+								0,
+								0
 							]
 						],
 						"settings":
@@ -671,11 +649,39 @@
 				},
 				{
 					"buffer": 3,
-					"file": "ablog/theblog/templates/home.html",
+					"file": "ablog/theblog/forms.py",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 343,
+						"buffer_size": 564,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								564,
+								564
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "ablog/theblog/templates/update_post.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 299,
 						"regions":
 						{
 						},
@@ -694,121 +700,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 7,
-					"type": "text"
-				},
-				{
-					"buffer": 4,
-					"file": "ablog/theblog/templates/base.html",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 3566,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								1584,
-								1584
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/HTML/HTML.sublime-syntax",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 36.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 5,
-					"type": "text"
-				},
-				{
-					"buffer": 5,
-					"file": "ablog/theblog/templates/article_detail.html",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 364,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								134,
-								134
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/HTML/HTML.sublime-syntax"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 6,
-					"type": "text"
-				},
-				{
-					"buffer": 6,
-					"file": "ablog/theblog/templates/add_post.html",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 245,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								228,
-								228
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/HTML/HTML.sublime-syntax"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 3,
-					"type": "text"
-				},
-				{
-					"buffer": 7,
-					"file": "ablog/theblog/forms.py",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 564,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								427,
-								427
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Python/Python.sublime-syntax"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 0,
+					"stack_index": 2,
 					"type": "text"
 				}
 			]
