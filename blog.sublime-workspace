@@ -290,10 +290,7 @@
 			}
 		},
 		{
-			"contents": "from django import forms\nfrom .models import Post\n\nclass PostForm(forms.ModelForm):\n\t#modelform allows us to create a form\n\tclass Meta:\n\t\tmodel = Post\n\t\tfields = ('title', 'title_tag', 'author', 'body')\n\n\t\twidgets = {\n\t\t\t'title': forms.TextInput(attrs = {'class': 'form-control', 'placeholder': 'Add title'}),\n\t\t\t'title_tag': forms.TextInput(attrs = {'class': 'form-control', 'placeholder': 'Add title tag'}),\n\t\t\t'author': forms.Select(attrs = {'class': 'form-control'}),\n\t\t\t'body': forms.Textarea(attrs = {'class': 'form-control', 'placeholder': 'YOUR BLOG'})\n\t\t}",
 			"file": "ablog/theblog/forms.py",
-			"file_size": 578,
-			"file_write_time": 132530430770684488,
 			"settings":
 			{
 				"buffer_size": 564,
@@ -415,12 +412,11 @@
 	},
 	"expanded_folders":
 	[
-		"/C/Users/Sheeba/Prithvi/Projects/MY-BLOG/ablog",
-		"/C/Users/Sheeba/Prithvi/Projects/MY-BLOG/ablog/theblog",
-		"/C/Users/Sheeba/Prithvi/Projects/MY-BLOG/ablog/theblog/templates"
+		"/C/Users/Sheeba/Desktop/PRITHVI/Projects/MY-BLOG/ablog"
 	],
 	"file_history":
 	[
+		"/C/Users/Sheeba/Desktop/PRITHVI/Coding/Hackerrank/Hackerrank C++/DSA/linked-list/hrll1.cpp",
 		"/C/Users/Sheeba/Prithvi/Projects/MY-BLOG/ablog/theblog/models.py",
 		"/C/Users/Sheeba/Prithvi/Projects/MY-BLOG/ablog/theblog/templates/home.html",
 		"/C/Users/Sheeba/Prithvi/Projects/MY-BLOG/ablog/theblog/templates/base.html",
@@ -525,7 +521,7 @@
 	],
 	"find":
 	{
-		"height": 27.0
+		"height": 29.0
 	},
 	"find_in_files":
 	{
@@ -560,7 +556,7 @@
 	"groups":
 	[
 		{
-			"selected": 0,
+			"selected": 3,
 			"sheets":
 			[
 				{
@@ -576,8 +572,8 @@
 						"selection":
 						[
 							[
-								694,
-								694
+								464,
+								464
 							]
 						],
 						"settings":
@@ -588,7 +584,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 0,
+					"stack_index": 4,
 					"type": "text"
 				},
 				{
@@ -644,7 +640,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 4,
+					"stack_index": 2,
 					"type": "text"
 				},
 				{
@@ -672,7 +668,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 1,
+					"stack_index": 0,
 					"type": "text"
 				},
 				{
@@ -700,7 +696,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 2,
+					"stack_index": 1,
 					"type": "text"
 				}
 			]
@@ -708,7 +704,7 @@
 	],
 	"incremental_find":
 	{
-		"height": 27.0
+		"height": 29.0
 	},
 	"input":
 	{
@@ -749,7 +745,7 @@
 	"project": "blog.sublime-project",
 	"replace":
 	{
-		"height": 50.0
+		"height": 54.0
 	},
 	"save_all_on_build": true,
 	"select_file":
