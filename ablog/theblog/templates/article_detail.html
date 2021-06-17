@@ -11,7 +11,8 @@
 
 <h1>{{ post.title }}</h1>
 <small>By: {{ post.author.first_name }} {{ post.author.last_name }}<br/> Email -
-{{ post.author.email }} </small><br/>
+{{ post.author.email }} <a href="{% url 'update_post' post.pk %}"> [Edit]</a>
+ </small><br/>
 <hr>
 <br/>
 
