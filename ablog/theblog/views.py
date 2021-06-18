@@ -29,3 +29,4 @@ class UpdatePostView(UpdateView):
 	form_class = EditForm
 	template_name = 'update_post.html'
 	#fields = ['title', 'title_tag', 'body']
+	#
