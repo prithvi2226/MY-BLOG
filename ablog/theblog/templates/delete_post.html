@@ -2,19 +2,26 @@
 {% block title %}Delete block post{% endblock %}
 {% block content %}
 
-<h2>DELETE A POST </h2>
-<br/>
-<br/>
+{% if user.is_authenticated %}
 
-<h3>Delete: {{ post.title }}</h3>
 
-<div class="form-group">
-	<form method="POST">
-		{% csrf_token %}
+  <h2>DELETE A POST </h2>
+  <br/>
+  <br/>
 
-    <h3><strong>Are you sure?!</strong><br/></br></h3>
-		<button class="btn btn-secondary">Delete Post</button>
-</div>
+  <h3>Delete: {{ post.title }}</h3>
 
+  <div class="form-group">
+    <form method="POST">
+      {% csrf_token %}
+
+      <h3><strong>Are you sure?!</strong><br/></br></h3>
+      <button class="btn btn-secondary">Delete Post</button>
+  </div>
+
+{% else %}
+LOG BACK IN BRATHA
+
+{% endif %}
 
 {% endblock %}

@@ -16,9 +16,12 @@
   Email - {{ post.author.email }}<br/>
   Last Edited On - {{ post.post_date }} - 
 
-<a href="{% url 'update_post' post.pk %}"> [Edit]</a>
-<a href="{% url 'delete_post' post.pk %}">[DELETE]</a>
+  {% if user.is_authenticated %}
 
+    <a href="{% url 'update_post' post.pk %}"> [Edit]</a>
+    <a href="{% url 'delete_post' post.pk %}">[DELETE]</a>
+    
+  {% endif %}
 
  </small><br/>
 <hr>

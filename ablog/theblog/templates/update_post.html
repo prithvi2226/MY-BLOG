@@ -2,16 +2,22 @@
 {% block title %}Edit block post{% endblock %}
 {% block content %}
 
-<h2>EDIT A POST </h2>
-<br/>
-<br/>
+{% if user.is_authenticated %}
 
-<div class="form-group">
-	<form method="POST">
-		{% csrf_token %}
-		{{ form.as_p }}
-		<button class="btn btn-secondary">Update Post</button>
-</div>
+  <h2>EDIT A POST </h2>
+  <br/>
+  <br/>
 
+  <div class="form-group">
+    <form method="POST">
+      {% csrf_token %}
+      {{ form.as_p }}
+      <button class="btn btn-secondary">Update Post</button>
+  </div>
+{% else %}
+
+LOGIN COCKSUCKA U AINT ALLOWED HERE.
+
+{% endif %}
 
 {% endblock %}

@@ -1,17 +1,22 @@
 {% extends 'base.html' %}
 
 {% block content %}
+{% if user.is_authenticated %}
 
-<h2>ADD A POST > </h2>
-<br/>
-<br/>
+  <h2>ADD A POST > </h2>
+  <br/>
+  <br/>
 
-<div class="form-container">
-	<form method="POST">
-		{% csrf_token %}
-		{{ form.as_p }}
-		<button class="btn btn-secondary">Post</button>
-</div>
+  <div class="form-container">
+    <form method="POST">
+      {% csrf_token %}
+      {{ form.as_p }}
+      <button class="btn btn-secondary">Post</button>
+  </div>
+{% else %}
 
+GETTHA FOOK OUTTA HERE AND LOG BACK IN 
+
+{% endif %}
 
 {% endblock %}
